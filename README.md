@@ -1,43 +1,46 @@
-Hi, I'm Tope Olafisoye 👋
+# Tope Olafisoye | Data Analyst Portfolio
 
-Aspiring Data Analyst | MSc Artificial Intelligence
+**Aspiring Data Analyst | SQL • Python • Excel • Power BI**
 
-I'm a data and technology professional with an MSc in Artificial Intelligence from the University of Bradford and a BEng in Computer Engineering.
+I use data analysis and visualisation to explore business questions, identify trends, and communicate evidence-based insights. I hold an MSc in Artificial Intelligence from the University of Bradford and a BEng in Computer Engineering, with additional experience in project controls and performance reporting.
 
-I enjoy using data to investigate problems, identify patterns and communicate insights that support better decisions. My background also includes project controls and performance reporting across infrastructure and energy projects.
+## Featured Projects
 
-🛠️ Technical Skills
+### 🚀 SpaceX Falcon 9 Launch Analysis
 
-SQL: Data extraction, querying and analysis
+An end-to-end data analytics project combining Python, SQL, exploratory analysis, machine learning, and an interactive Dash dashboard to investigate first-stage landing outcomes.
 
-Python: Data cleaning, exploratory analysis and visualisation
+- [View the project on GitHub](https://github.com/olafisoyetope44-ship-it/Applied-Data-Capstone)
+- [Open the interactive dashboard](https://applied-data-capstone.onrender.com)
 
-Microsoft Excel: Data analysis, reporting and spreadsheets
+### 🎮 Video Game Sales Analysis
 
-Power BI: Dashboards, performance reporting and KPIs
+An analysis of video-game sales and market trends, exploring how commercial performance varies across titles, platforms, genres, and regions.
 
-Additional interests: Machine learning, AI and predictive analytics
+- [View the project on GitHub](https://github.com/olafisoyetope44-ship-it/Video-Game-Analysis)
 
-📊 Featured Projects
+### 📈 More Projects
 
-SpaceX Data Analysis: Data collection, SQL analysis, exploratory analysis and launch prediction.
+- [Historical Stock and Revenue Analysis](https://github.com/olafisoyetope44-ship-it/Analyzing-Historical-Stocks-Revenue-Data)
+- [Keratoconus Detection](https://github.com/olafisoyetope44-ship-it/Keratoconus)
 
-Video Game Sales Analysis: Exploring market trends and commercial performance.
+## Technical Skills
 
-Crime Data Analysis: Exploratory analysis and predictive modelling using South African crime data.
+- **SQL:** Data extraction, filtering, aggregation, and analytical queries
+- **Python:** pandas, data cleaning, exploratory analysis, and visualisation
+- **Excel:** Data analysis, spreadsheets, and reporting
+- **Power BI:** Dashboards, KPIs, and performance reporting
+- **Additional skills:** Machine learning, statistical analysis, and data storytelling
 
-Keratoconus Detection: Applying deep learning to medical image classification.
+## Education
 
-🎓 Education
+- **MSc Artificial Intelligence** — University of Bradford
+- **BEng Computer Engineering** — Covenant University
 
-MSc Artificial Intelligence — University of Bradford
+## Current Focus
 
-BEng Computer Engineering — Covenant University
+Building practical analytics projects that turn raw data into clear findings and useful recommendations, with a focus on graduate and junior Data Analyst opportunities.
 
-🎯 Current Focus
+---
 
-Building practical data analytics projects that combine SQL, Python, Excel and Power BI to answer business questions and support evidence-based decisions.
-
-📫 Feel free to explore my repositories and connect with me professionally.
-
-GitHub: github.com/TopeOlafisoye
+Feel free to explore my repositories and connect with me professionally.
