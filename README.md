@@ -19,7 +19,7 @@ An analysis of video-game sales and market trends, exploring how commercial perf
 
 - [View the project on GitHub](https://github.com/olafisoyetope44-ship-it/Video-Game-Analysis)
 
-### 📈 More Projects
+### 📈 More Projects in Progress
 
 - [Historical Stock and Revenue Analysis](https://github.com/olafisoyetope44-ship-it/Analyzing-Historical-Stocks-Revenue-Data)
 - [Keratoconus Detection](https://github.com/olafisoyetope44-ship-it/Keratoconus)
